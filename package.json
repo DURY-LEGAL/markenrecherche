@@ -1,0 +1,24 @@
+{
+  "name": "markenrecherche",
+  "version": "0.1.0",
+  "description": "Markenrecherche - Automatische Recherche in DPMA und EUIPO Datenbanken. Powered by DURY LEGAL.",
+  "keywords": [
+    "markenrecherche",
+    "trademark-search",
+    "dpma",
+    "euipo",
+    "legal-tech",
+    "dury-legal"
+  ],
+  "author": "DURY LEGAL Rechtsanwaelte <info@dury.de> (https://www.dury.de)",
+  "license": "MIT",
+  "homepage": "https://www.dury.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DURY-LEGAL/markenrecherche.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests coming soon'"
+  }
+}
